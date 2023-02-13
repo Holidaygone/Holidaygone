@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/121843068/212247297-f391ed67-caf1-4f8b-b0a5-f8a749c65a23.png)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ddd&height=300&section=header&text=Holidaygone&fontSize=90)
 
